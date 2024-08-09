@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+//programa que preenche um vetor com 10 numeros inteiros e que retornar o maior e o menor numero desse vetor
+
 int main(){
     int x[10];
     int maior, menor;
